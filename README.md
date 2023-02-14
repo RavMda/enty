@@ -1,9 +1,9 @@
 # Enty
-Enty is a tool for **Dead By Daylight** that allows you to view and modify your savefile. It also has a few other features.
+Enty is a tool for **Dead By Daylight** that allows you to view and modify your savefile.
 
 ## Features
 
-- Free Bloodweb 💸
+- Free Bloodweb 
 - Inject Market
 - Beamer Spam *(pre 6.3.0)*
 - Dump Savefile
