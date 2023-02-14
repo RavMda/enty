@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace fgasfsasf;
+namespace enty;
 
 public static class Colory
 {

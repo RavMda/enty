@@ -2,7 +2,7 @@
 using Fiddler;
 using Newtonsoft.Json;
 
-namespace fgasfsasf.Methods;
+namespace enty.Methods;
 
 public class Methods
 {

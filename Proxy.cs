@@ -1,6 +1,6 @@
 ﻿using Fiddler;
 
-namespace fgasfsasf;
+namespace enty;
 
 public static class Proxy
 {

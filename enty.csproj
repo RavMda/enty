@@ -7,8 +7,8 @@
         <Nullable>disable</Nullable>
         <LangVersion>default</LangVersion>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-        <AssemblyName>fgasfsasf</AssemblyName>
-        <RootNamespace>fgasfsasf</RootNamespace>
+        <AssemblyName>enty</AssemblyName>
+        <RootNamespace>enty</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>

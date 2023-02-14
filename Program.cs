@@ -1,5 +1,5 @@
-﻿using fgasfsasf;
-using fgasfsasf.Methods;
+﻿using enty;
+using enty.Methods;
 
 var methods = new Methods();
 

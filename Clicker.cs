@@ -3,7 +3,7 @@ using System.Text;
 
 #pragma warning disable CA1806
 
-namespace fgasfsasf;
+namespace enty;
 
 public static class Clicker
 {

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace fgasfsasf {
+namespace enty {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace fgasfsasf {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("fgasfsasf.Market", typeof(Market).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("enty.Market", typeof(Market).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

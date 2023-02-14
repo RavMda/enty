@@ -1,4 +1,4 @@
-﻿namespace fgasfsasf.Methods;
+﻿namespace enty.Methods;
 
 public partial class queue
 {

@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 
-namespace fgasfsasf;
+namespace enty;
 
 public static class Clipboard
 {
